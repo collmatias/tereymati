@@ -173,6 +173,11 @@ body {
   font-family: "Great Vibes", cursive;
   color: rgb(0, 0, 0); }
 
+  /* Common Style */
+.ww-title-rspv {
+  font-family: "Great Vibes", cursive;
+  color: rgb(255, 255, 255); }
+
 .ww-section {
   padding: 100px 0; }
 
