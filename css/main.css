@@ -170,7 +170,8 @@ body {
 
 /* Common Style */
 .ww-title {
-  font-family: "Great Vibes", cursive; }
+  font-family: "Great Vibes", cursive;
+  color: rgb(0, 0, 0); }
 
 .ww-section {
   padding: 100px 0; }
